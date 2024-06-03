@@ -49,7 +49,7 @@ def main():
     pTime = 0
 
 
-    cap = cv.VideoCapture('Posture_detection/videos/sample-3.mp4')
+    cap = cv.VideoCapture('Posture_detection/sample-3.mp4')
 
     detector = poseDetector()
     while True:
