@@ -1,7 +1,11 @@
 # **Pose Detection with OpenCV and MediaPipe**
 
 
-https://github.com/iampraffulbisht/Posture_detection/assets/114369813/6af66af9-47b9-405b-bd3f-9457a4e2c798
+
+
+
+https://github.com/iampraffulbisht/Posture_detection/assets/114369813/f1cf325e-074d-4438-9225-9f6da71cfcf0
+
 
 
 This project demonstrates real-time pose detection using OpenCV and MediaPipe in Python. The application processes video input, detects body landmarks, and overlays a pose skeleton on the detected body.
